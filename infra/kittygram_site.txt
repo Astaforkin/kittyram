@@ -1,0 +1,5 @@
+IP: 84.201.178.186;
+name_taski: https://taski14sp.ddns.net;
+name_kittygram: https://kittygram14sp.ddns.net;
+login: yc-user;
+password: qwerty; 
